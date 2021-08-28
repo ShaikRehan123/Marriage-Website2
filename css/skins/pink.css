@@ -1,0 +1,16 @@
+/*  pink color style    */
+.event-section .event-item-inner span,
+.couple-section .couple i.fa-heart,
+.couple-section .couple h3,
+.couple-section .social-icons i,
+.header .nav ul li a.active,
+.header .nav ul li a:hover{
+    color:#fb839e;
+}
+.event-section .event-item-inner::before,
+.couple-section .couple img{
+    border-color: pink;
+}
+.event-section{
+    background-color: pink;
+}
